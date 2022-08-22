@@ -1,0 +1,22 @@
+{
+  "name": "bankapp",
+  "version": "1.0.0",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamdatuka/Projects_Beginner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariamdatuka/Projects_Beginner/issues"
+  },
+  "homepage": "https://github.com/mariamdatuka/Projects_Beginner#readme",
+  "scripts": {
+    "golive": "lt --port 5500"
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2"
+  },
+  "description": ""
+}
